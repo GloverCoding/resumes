@@ -6,12 +6,18 @@
 ###### (770) 876-3857
 ## Experience and Qualifications Snapshot
 **Accomplished Software Engineer** who is highly proficient in C++ and Python, with nine years of professional technical experience, including seven years working on high-tech real time computer vision algorithms and two years working on real time bidding platforms, marketing analytics, and economic modeling.
+
 **Driven Technical Leader** with the proven ability to devise and refine complex algorithms, in the areas of identification, optimization, modelling, machine learning, tracking, and forecasting.
+
 **Quantitatively Geared Individual** who loves solving hard-to-solve problems, with solid professional and academic backgrounds in data science, computer vision, statistics, economics, and mathematics.
+
 **Talented Teacher** with many years of teaching experience (in formal and informal settings), lots of positive feedback from many students, and a long-term goal of going back to school to pursue a PhD, in order to become a professor.
+
 ## Software Packages/Languages Expertise
 **High Proficiency:** C++, Python, OOP, Linux, real time systems, Git, CMake, Excel/VBA, OpenCV, Bash scripting
+
 **Medium Proficiency:** scikit-learn, TensorFlow, Keras, valgrind, ROS, Gazebo, MATLAB, multithreading, Qt, R
+
 **Rudimentary Proficiency:** Wireshark, CUDA, Spark, Scala, SQL, MongoDB, PostgreSQL, Tableau, Stata, SAS
 _______________
 ## PROFESSIONAL EXPERIENCE
@@ -76,17 +82,23 @@ _______________
 _______________
 #### M.S. in Economics **&nbsp;&#167;&nbsp;** cum laude **&nbsp;&#167;&nbsp;** Georgia Tech **&nbsp;&#167;&nbsp;** Atlanta, GA
 ##### Highlighted coursework
-*Mathematics:* Probability & Statistics; Econometrics [regression, time series modeling, etc.]; Discrete Choice Econometrics [logistic regression, various categorical variables problems, etc.]
-*Computing:* Empirical Methods [SAS/Stata/etc.]
-*Highlighted Economics courses:* Microeconomics; Macroeconomics; Development Economics; International Economics.
+**Mathematics:** Probability & Statistics; Econometrics [regression, time series modeling, etc.]; Discrete Choice Econometrics [logistic regression, various categorical variables problems, etc.]
+
+**Computing:** Empirical Methods [SAS/Stata/etc.]
+
+**Highlighted Economics courses:** Microeconomics; Macroeconomics; Development Economics; International Economics.
+
 ##### Accomplishments
 * Awarded full scholarship and living stipend.
-* Opted to write an 86 page master's thesis over three semesters, "for fun" (i.e, the thesis was not a graduation requiement).
+* Opted to write an 86 page master's thesis over three semesters, "for fun" (i.e, the thesis was not a graduation requirement).
 
 #### B.S. in Economics **&nbsp;&#167;&nbsp;** magna cum laude **&nbsp;&#167;&nbsp;** Georgia Tech **&nbsp;&#167;&nbsp;** Atlanta, GA
 **Mathematics:** Calculus I, II & III; Differential Equations; Abstract Vector Spaces; Probability and Statistics; Real Analysis; Stochastic Processes.
+
 **Computing:** Python; MATLAB.
+
 **Highlighted Economics Courses:** Econometrics; Economic Forecasting [ARMA etc.]; Money and Capital Markets; Economic and Financial Modeling; International Economics.
+
 ##### Accomplishments
 * Conducted movie market research with two economics professors through President’s Undergraduate Research Award, which also included a cash sum.
 * Top student of economic forecasting, considered the most mathematically rigorous economics course; obtained a 100% average. Tutored fellow classmates and received a round of applause from the class upon finishing my final exam, after a classmate pronounced, "Thanks, Manny--we couldn't have done it without you!"
