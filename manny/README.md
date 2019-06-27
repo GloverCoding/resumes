@@ -1,6 +1,6 @@
 # MICHAEL "MANNY" GLOVER
 #### Data Science &nbsp;&#167;&nbsp; Computer Vision &nbsp;&#167;&nbsp; Software Engineering
-###### manny@glovercoding.com
+###### glover.michaele@gmail.com
 ###### 1371 Hartford Ave SW
 ###### Atlanta, GA 30310
 ###### (770) 876-3857
