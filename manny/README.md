@@ -1,5 +1,3 @@
-NOTE: https://dillinger.io/ is the Markdown renderer I like most.  My resume looks really pretty in this engine.
-
 # MICHAEL "MANNY" GLOVER
 #### Data Science &nbsp;&#167;&nbsp; Computer Vision &nbsp;&#167;&nbsp; Software Engineering
 ###### manny@glovercoding.com
