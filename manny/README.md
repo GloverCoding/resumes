@@ -1,5 +1,6 @@
 # MICHAEL "MANNY" GLOVER
-#### Data Science &nbsp;&#167;&nbsp; Computer Vision &nbsp;&#167;&nbsp; Software Engineering
+## Data Science &nbsp;&#167;&nbsp; Computer Vision &nbsp;&#167;&nbsp; Software Engineering
+
 glover.michaele@gmail.com
 
 1371 Hartford Ave SW
@@ -7,7 +8,11 @@ glover.michaele@gmail.com
 Atlanta, GA 30310
 
 (770) 876-3857
-## Experience and Qualifications Snapshot
+
+----------
+## SUMMARY
+----------
+### Experience and Qualifications Snapshot
 **Accomplished Software Engineer** who is highly proficient in C++ and Python, with nine years of professional technical experience, including seven years working on high-tech real time computer vision algorithms and two years working on real time bidding platforms, marketing analytics, and economic modeling.
 
 **Driven Technical Leader** with the proven ability to devise and refine complex algorithms, in the areas of identification, optimization, modelling, machine learning, tracking, and forecasting.
@@ -16,15 +21,16 @@ Atlanta, GA 30310
 
 **Talented Teacher** with many years of teaching experience (in formal and informal settings), lots of positive feedback from many students, and a long-term goal of going back to school to pursue a PhD, in order to become a professor.
 
-## Software Packages/Languages Expertise
+### Software Packages/Languages Expertise
 **High Proficiency:** C++, Python, OOP, Linux, real time systems, Git, CMake, Excel/VBA, OpenCV, Bash scripting
 
 **Medium Proficiency:** scikit-learn, TensorFlow, Keras, valgrind, ROS, Gazebo, MATLAB, multithreading, Qt, R
 
 **Rudimentary Proficiency:** Wireshark, CUDA, Spark, Scala, SQL, MongoDB, PostgreSQL, Tableau, Stata, SAS
-_______________
+
+--------------------------
 ## PROFESSIONAL EXPERIENCE
-_______________
+--------------------------
 
 #### DATA SCIENTIST
 ##### Stanley Black & Decker **&nbsp;&#167;&nbsp;** Atlanta, GA **&nbsp;&#167;&nbsp;** June 2018 to January 2019
@@ -80,9 +86,9 @@ _______________
 * Taught Survey of Calculus recitation sessions to Business / Economics / Accounting / Public Policy freshmen.
 * My interviewer, a mathematics PhD candidate, said that I explained better than he could the concept of a maximum or minimum of a function corresponding to where the derivative of the function equals zero.
 
-_______________
+-----------------------------------------
 ## EDUCATION AND ACADEMIC ACCOMPLISHMENTS
-_______________
+-----------------------------------------
 #### M.S. in Economics **&nbsp;&#167;&nbsp;** cum laude **&nbsp;&#167;&nbsp;** Georgia Tech **&nbsp;&#167;&nbsp;** Atlanta, GA
 ##### Highlighted coursework
 **Mathematics:** Probability & Statistics; Econometrics [regression, time series modeling, etc.]; Discrete Choice Econometrics [logistic regression, various categorical variables problems, etc.]
