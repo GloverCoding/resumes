@@ -1,9 +1,12 @@
 # MICHAEL "MANNY" GLOVER
 #### Data Science &nbsp;&#167;&nbsp; Computer Vision &nbsp;&#167;&nbsp; Software Engineering
-###### glover.michaele@gmail.com
-###### 1371 Hartford Ave SW
-###### Atlanta, GA 30310
-###### (770) 876-3857
+glover.michaele@gmail.com
+
+1371 Hartford Ave SW
+
+Atlanta, GA 30310
+
+(770) 876-3857
 ## Experience and Qualifications Snapshot
 **Accomplished Software Engineer** who is highly proficient in C++ and Python, with nine years of professional technical experience, including seven years working on high-tech real time computer vision algorithms and two years working on real time bidding platforms, marketing analytics, and economic modeling.
 
