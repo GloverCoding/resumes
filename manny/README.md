@@ -2,9 +2,11 @@
 ## Data Science &nbsp;&#167;&nbsp; Computer Vision &nbsp;&#167;&nbsp; Software Engineering
 
 glover.michaele@gmail.com
+
 (770) 876-3857
 
 1371 Hartford Ave SW
+
 Atlanta, GA 30310
 
 ----------
